@@ -1,5 +1,5 @@
 echo "Hello World! This is freestyle demo project."
-g++ --version
+C:\MinGW\bin\g++.exe --version
 dir
-g++ hello_world.cpp
+C:\MinGW\bin\g++.exe hello_world.cpp
 a
